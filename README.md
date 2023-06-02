@@ -1,9 +1,5 @@
 # image_compression
-Image Compression methods SVD, QR and LU using custom/standard libraries  
-
-Author: Srini Ananthakrishnan  
-
-Date  : 10/16/2016   
+Image Compression methods SVD, QR and LU using custom/standard libraries   
 
 ### Section 1 (Algorithms - Pseudo code/Output)  
 
